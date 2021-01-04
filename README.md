@@ -1,2 +1,1 @@
-# FMCE
-Fuel Moisture Content Estimation
+# Fuel Moisture Content Estimation
